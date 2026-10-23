@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+backend/aidflow.db
+frontend/node_modules/
+frontend/dist/
+.env
